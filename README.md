@@ -120,6 +120,8 @@ data
 ```
 
 ## 参考链接
+- [国家民政部 - 全国行政区划信息查询地图](http://xzqh.mca.gov.cn/map)
+- [国家民政部 - 行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/)
 - [国家统计局 - 行政区划代码](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/)
 - [民政部 - 中华人民共和国行政区划代码](http://www.mca.gov.cn/article/sj/xzqh)
 - [维基百科 - 中华人民共和国行政区划](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92)
